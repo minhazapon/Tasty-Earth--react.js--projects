@@ -1,4 +1,5 @@
 import Banner from "./HomeFiles/Banner";
+import Order from "./HomeFiles/Order";
 
 
 const Home = () => {
@@ -6,6 +7,7 @@ const Home = () => {
         <div>
             
             <Banner></Banner>
+            <Order></Order>
 
 
 
