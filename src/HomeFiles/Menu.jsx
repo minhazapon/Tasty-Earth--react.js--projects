@@ -10,7 +10,7 @@ const Menu = () => {
 
      useEffect( () => {
 
-        fetch('https://mocki.io/v1/0d51f391-fa10-43e6-813d-b6e1d568749f')
+        fetch('menu.json')
         .then(res => res.json())
         .then(data => {
             
