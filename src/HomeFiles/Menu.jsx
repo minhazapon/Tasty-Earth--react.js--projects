@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import MenuDetails from "./MenuDetails";
 
 
 
@@ -50,13 +51,19 @@ const Menu = () => {
 
 
 {/* ----------------------------------------------------------------------- */}
+
+              <div className=" flex justify-center">
              
-              <div>
+              <div className=" grid  md:grid-cols-2 gap-4">
 
-             
+                  {
+                    
+                    menu.map( menu => <MenuDetails key={menu._id} menu={menu} ></MenuDetails> )
 
 
+                  }
 
+              </div>
 
               </div>
 
