@@ -6,7 +6,7 @@ const Form = () => {
     return (
         <div className=" flex-col md:flex-row lg:flex-row mb-10 mt-20 ml-10 mr-10">
 
-            <div className=" flex-col md:flex-row lg:flex-row bg-no-repeat bg-cover h-[800px] rounded-xl "
+            <div className=" flex-col md:flex-row lg:flex-row bg-no-repeat bg-cover h-[850px] rounded-xl bg-fixed "
              style={{backgroundImage: 'url(https://img.freepik.com/free-photo/mixed-fried-meat-with-pomegranate-sauce_140725-3461.jpg?t=st=1715879452~exp=1715883052~hmac=5c9e74ec0f9c17f909ad1b0628577f846635bf00ec5b9a21e13e3a08e38dd0bb&w=740)'}} >
                 
 
@@ -28,7 +28,7 @@ const Form = () => {
                 </div>
 
 
-                <div className=" flex-col md:flex-row lg:flex-row flex justify-center mt-10 gap-5 items-center">
+                <div className=" flex-col md:flex-row lg:flex-row flex justify-center mt-10 gap-5 ">
                   
 
 
@@ -46,6 +46,8 @@ const Form = () => {
                        Good food is a treasure trove of sensory<br></br> delight, a fusion of<br></br> flavors, textures.
                        </p>
                      </p>
+
+                     <button className=" btn bg-yellow-600 mt-2">Read More</button>
 
 
                   </div>

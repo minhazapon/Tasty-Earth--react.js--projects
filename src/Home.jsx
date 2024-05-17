@@ -5,6 +5,7 @@ import Chef from "./HomeFiles/Chef";
 import Form from "./HomeFiles/Form";
 import Menu from "./HomeFiles/Menu";
 import Order from "./HomeFiles/Order";
+import Testmonials from "./HomeFiles/Testmonials";
 
 
 const Home = () => {
@@ -18,6 +19,8 @@ const Home = () => {
             <Call></Call>
             <Chef></Chef>
             <Form></Form>
+            <Testmonials></Testmonials>
+
 
 
 

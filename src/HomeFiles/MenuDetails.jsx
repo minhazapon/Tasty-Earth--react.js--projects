@@ -18,8 +18,7 @@ const MenuDetails = ({menu}) => {
                   <p className="  text-slate-400"> {recipe} <br></br> </p>
                 </div>
                 <div>
-                   <p className=" text-yellow-600"> {price} </p>
-
+                   <p className=" text-yellow-600"> {price}$ </p>
                 </div>
             </div>
 
