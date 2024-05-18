@@ -72,6 +72,14 @@ const Menu = () => {
 
 
             </div>
+
+            <div className=" flex justify-center mt-5">
+
+            <button className=" text-center btn bg-yellow-700 text-white ">View Full Menu</button>
+
+
+            </div>
+
             
         </div>
     );

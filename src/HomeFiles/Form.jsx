@@ -4,6 +4,9 @@
 
 const Form = () => {
     return (
+        
+        <div>
+
         <div className=" flex-col md:flex-row lg:flex-row mb-10 mt-20 ml-10 mr-10">
 
             <div className=" flex-col md:flex-row lg:flex-row bg-no-repeat bg-cover h-[850px] rounded-xl bg-fixed "
@@ -64,7 +67,14 @@ const Form = () => {
 
 
             </div>
+
+
+          
             
+        </div>
+
+
+
         </div>
     );
 };

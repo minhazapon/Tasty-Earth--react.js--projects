@@ -8,9 +8,11 @@ const Banner = () => {
     return (
         <div className="  ">
 
+{/* https://img.freepik.com/premium-photo/delicious-juicy-beef-steak_919652-6651.jpg?w=740 */}
+
             <Carousel>
                 <div>
-                    <img className="" src="https://img.freepik.com/premium-photo/delicious-juicy-beef-steak_919652-6651.jpg?w=740" />
+                    <img className="" src="https://img.freepik.com/premium-photo/spicy-grilled-spare-ribs-board-dark-stone-background-top-view-flat-lay_1041103-9034.jpg?w=740" />
                   
                 </div>
                 <div>
@@ -26,7 +28,7 @@ const Banner = () => {
                     
                 </div>
                 <div>
-                    <img src="https://img.freepik.com/premium-photo/spicy-grilled-spare-ribs-board-dark-stone-background-top-view-flat-lay_1041103-9034.jpg?w=740" />
+                    <img src="https://img.freepik.com/premium-photo/delicious-juicy-beef-steak_919652-6651.jpg?w=740" />
                     
                 </div>
                 <div>
