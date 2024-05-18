@@ -3,9 +3,9 @@
 [
     {
         "_id": "642c155b2c4774f05c36eeaa",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
+        "name": "Salad",
+        "recipe": "Salad is a versatile dish that typically consists of a mixture of raw or cooked vegetables",
+        "image": "https://img.freepik.com/free-photo/front-view-vegetable-salad-with-greens-lettuce-plate-with-slice-lemon-cherry-tomatoes_141793-4666.jpg?t=st=1716052305~exp=1716055905~hmac=3b64767e2c775f1723754b8f0942ab576163b95879544f1f9e48510d14256b03&w=740",
         "category": "salad",
         "price": 14.7
     },
@@ -67,9 +67,9 @@
     },
     {
         "_id": "642c155b2c4774f05c36eea6",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
+        "name": "salad",
+        "recipe": "Salad is a versatile dish that typically consists of a mixture of raw or cooked vegetables",
+        "image": "https://img.freepik.com/premium-photo/salad-with-feta-cheese-top-view-free-space-your-text_239004-56.jpg?w=740",
         "category": "salad",
         "price": 13.5
     },
@@ -123,17 +123,17 @@
     },
     {
         "_id": "642c155b2c4774f05c36eea4",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
+        "name": "Salad",
+        "recipe": "Salad is a versatile dish that typically consists of a mixture of raw or cooked vegetabless",
+        "image": "https://img.freepik.com/free-photo/vegetables-salad-table_23-2148515515.jpg?t=st=1716052501~exp=1716056101~hmac=f171aecf74d8a03f426096bec28be1ef3ce8f1bb83108ac943a476b23ef5816a&w=740",
         "category": "salad",
         "price": 13.5
     },
     {
         "_id": "642c155b2c4774f05c36eea5",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
+        "name": "salad",
+        "recipe": "Salad is a versatile dish that typically consists of a mixture of raw or cooked vegetabless",
+        "image": "https://img.freepik.com/premium-photo/salad-with-vegetables-cheese_604472-2135.jpg?w=826",
         "category": "salad",
         "price": 9.5
     },
@@ -163,9 +163,9 @@
     },
     {
         "_id": "642c155b2c4774f05c36eea8",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
+        "name": "salad",
+        "recipe": "Salad is a versatile dish that typically consists of a mixture of raw or cooked vegetabless",
+        "image": "https://img.freepik.com/free-photo/top-view-delicious-vegan-salad-with-fresh-ingredients-plate-fork-garlics-flower-blue-blurred-background_179666-47293.jpg?t=st=1716052591~exp=1716056191~hmac=05cbad7802bf81ea7b90ca8f40dbf6e70555bc14d20a0dda78617baf8b8a9581&w=740",
         "category": "salad",
         "price": 13.5
     },
@@ -219,9 +219,9 @@
     },
     {
         "_id": "642c155b2c4774f05c36eea7",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
+        "name": "Salad",
+        "recipe": "Salad is a versatile dish that typically consists of a mixture of raw or cooked vegetabless",
+        "image": "https://img.freepik.com/premium-photo/concept-tasty-eating-with-greek-salad-white-wooden-table_185193-39165.jpg?w=740",
         "category": "salad",
         "price": 9.5
     },
@@ -315,9 +315,9 @@
     },
     {
         "_id": "642c155b2c4774f05c36eea9",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
+        "name": "Salad",
+        "recipe": "Salad is a versatile dish that typically consists of a mixture of raw or cooked vegetabless",
+        "image": "https://img.freepik.com/premium-photo/vegetable-salad-with-cheese-tomatoes-black-olives_151349-1031.jpg?w=740",
         "category": "salad",
         "price": 9.5
     },
@@ -379,9 +379,9 @@
     },
     {
         "_id": "642c155b2c4774f05c36eeac",
-        "name": "Roasted Pork Belly",
-        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
+        "name": "Salad",
+        "recipe": "Salad is a versatile dish that typically consists of a mixture of raw or cooked vegetabless",
+        "image": "https://img.freepik.com/premium-photo/concept-tasty-eating-with-greek-salad-white-wooden-table_185193-39165.jpg?w=740",
         "category": "salad",
         "price": 14.5
     },
@@ -427,9 +427,9 @@
     },
     {
         "_id": "642c155b2c4774f05c36eeab",
-        "name": "Goats Cheese Pizza",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2017/01/bbq-370x247.jpg",
+        "name": "Salad",
+        "recipe": "Salad is a versatile dish that typically consists of a mixture of raw or cooked vegetabless",
+        "image": "https://img.freepik.com/premium-photo/fresh-vegetable-salad-with-grilled-chicken-breast-tomatoes-cucumbers-radish-mix-lettuce-leaves-chicken-salad-healthy-food_2829-7682.jpg?w=740",
         "category": "salad",
         "price": 14.5
     },

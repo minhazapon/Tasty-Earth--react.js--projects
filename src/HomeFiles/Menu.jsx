@@ -16,6 +16,7 @@ const Menu = () => {
             
             const popular = data.filter( item => item.category === 'popular' )
             
+             
             setMenu(popular)})
 
      } , [])
