@@ -1,0 +1,38 @@
+
+
+[
+   
+
+    {
+        
+        "name": "Burger",
+        "recipe": "This is our offer Items",
+        "image": "https://img.freepik.com/free-photo/beef-burger-with-mushroom-bell-pepper-tomato-lettuce-caramelized-onion_140725-5721.jpg?t=st=1716039587~exp=1716043187~hmac=834b6468a77c908879ff60c34bdb7d096a1a20f5b35ae2394f732ee41bac92dc&w=740",
+       
+        "price": "30% off"
+    },
+    {
+        "name": "pizza",
+        "recipe": "This is our offer Items",
+        "image": "https://img.freepik.com/free-photo/crispy-mixed-pizza-with-olives-sausage_140725-3095.jpg?t=st=1716039621~exp=1716043221~hmac=b5c75609fe69573dd71c16459506a6aee0586baebcc865b79c97fc9823aa916d&w=740",
+
+        "price": "30% off"
+    },
+    {
+        "name": "noddles",
+        "recipe": "This is our offer Items",
+        "image": "https://img.freepik.com/free-photo/view-delicious-noodles-dish_23-2150777741.jpg?t=st=1716039678~exp=1716043278~hmac=3569d3b09b0e95bdab4421d5e967acd5a0309e9db7a74a977f2338aa93ae859a&w=360",
+        
+        "price": "30% off"
+    },
+    {
+        "name": "stake",
+        "recipe": "This is our offer Items",
+        "image": "https://img.freepik.com/free-photo/juicy-steak-medium-rare-beef-with-spices-grilled-vegetables_24972-2328.jpg?t=st=1716039737~exp=1716043337~hmac=02c1f3ffde882c3d47403812d830863e31aee8333ee155b382c01f1a2a34d97d&w=740",
+     
+        "price": "30% off"
+    }
+
+
+
+]

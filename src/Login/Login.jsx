@@ -6,7 +6,7 @@ const Login = () => {
     return (
         <div className="   ml-5 mr-5  ">
 
-<div className=" flex-col md:flex-row lg:flex-row p-10 text-center  ">
+                <div className=" flex-col md:flex-row lg:flex-row p-10 text-center  ">
                     <h1 className=" text-xl text-yellow-600">---Login Your Account ---</h1>
                     
                     <div className=" flex justify-center mt-5">

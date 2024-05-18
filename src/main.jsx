@@ -10,6 +10,7 @@ import Root from './Root';
 import Home from './Home';
 import Login from './Login/Login';
 import SignUp from './Login/SignUp';
+import OurMenu from './Our menu/OurMenu';
 
 const router = createBrowserRouter([
   {
@@ -27,6 +28,10 @@ const router = createBrowserRouter([
       {
         path: "/sign",
         element: <SignUp></SignUp>,
+      },
+      {
+        path: "/ourmenu",
+        element: <OurMenu></OurMenu>,
       },
     ],
   },
