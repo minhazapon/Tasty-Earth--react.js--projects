@@ -1,3 +1,4 @@
+import Order from "./Order";
 import ShopBanner from "./ShopBanner";
 
 
@@ -9,6 +10,7 @@ const ShopMother = () => {
         <div>
 
             <ShopBanner></ShopBanner>
+            <Order></Order>
             
         </div>
     );
