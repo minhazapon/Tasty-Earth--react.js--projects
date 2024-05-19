@@ -11,8 +11,8 @@ import Home from './Home';
 import Login from './Login/Login';
 import SignUp from './Login/SignUp';
 import OurMenu from './Our menu/OurMenu';
-import ContactBanner from './Contact/ContactBanner';
 import ContactMother from './Contact/ContactMother';
+import ShopMother from './Our Shop/ShopMother';
 
 const router = createBrowserRouter([
   {
@@ -38,6 +38,10 @@ const router = createBrowserRouter([
       {
         path: "/contactmother",
         element: <ContactMother></ContactMother>,
+      },
+      {
+        path: "/shopmother",
+        element: <ShopMother></ShopMother>,
       },
     ],
   },

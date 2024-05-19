@@ -43,7 +43,7 @@ useEffect(() => {
          <li><NavLink to="/" >Home</NavLink></li>
          <li><NavLink to="/contactmother" >Contact Us</NavLink></li>
          <li><NavLink to="/ourmenu" >Our Menu</NavLink></li>
-         <li><NavLink to="/shop" >Our Shop</NavLink></li>
+         <li><NavLink to="/shopmother" >Our Shop</NavLink></li>
     
     
     </>
