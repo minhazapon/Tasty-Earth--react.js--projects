@@ -31,17 +31,13 @@ const Chef = () => {
 
                 <div className=" flex-col md:flex-row lg:flex-row p-10 text-center">
                     <h1 className=" text-xl text-yellow-600">---Should Try---</h1>
-                    
                     <div className=" flex justify-center mt-5">
                     <p className=" bg-black w-[400px] h-[1px] text-center "></p>
                     </div>
-
                     <p className=" text-black text-5xl mt-3">CHEF RECOMMENDS   </p>
-
                     <div className=" flex justify-center mt-5">
                     <p className=" bg-black w-[400px] h-[1px] text-center "></p>
                     </div>
-                     
                 </div>
 
 

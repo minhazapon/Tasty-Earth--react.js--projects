@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import MenuDetails from "./MenuDetails";
+import { Link } from "react-router-dom";
 
 
 
@@ -75,8 +76,10 @@ const Menu = () => {
             </div>
 
             <div className=" flex justify-center mt-5">
-
+             
+             <Link to="/ourmenu" >
             <button className=" text-center btn bg-yellow-700 text-white ">View Full Menu</button>
+            </Link>
 
 
             </div>

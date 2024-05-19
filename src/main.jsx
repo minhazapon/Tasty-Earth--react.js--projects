@@ -11,6 +11,8 @@ import Home from './Home';
 import Login from './Login/Login';
 import SignUp from './Login/SignUp';
 import OurMenu from './Our menu/OurMenu';
+import ContactBanner from './Contact/ContactBanner';
+import ContactMother from './Contact/ContactMother';
 
 const router = createBrowserRouter([
   {
@@ -32,6 +34,10 @@ const router = createBrowserRouter([
       {
         path: "/ourmenu",
         element: <OurMenu></OurMenu>,
+      },
+      {
+        path: "/contactmother",
+        element: <ContactMother></ContactMother>,
       },
     ],
   },
