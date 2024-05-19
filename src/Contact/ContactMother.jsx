@@ -1,4 +1,5 @@
 import ContactBanner from "./ContactBanner";
+import ContactForm from "./ContactForm";
 import ContactLocation from "./ContactLocation";
 
 
@@ -10,6 +11,7 @@ const ContactMother = () => {
 
             <ContactBanner></ContactBanner>
             <ContactLocation></ContactLocation>
+            <ContactForm></ContactForm>
             
         </div>
     );
