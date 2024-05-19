@@ -24,14 +24,7 @@ const Login = () => {
 
 
 
-		     <div className=" flex-col md:flex-col lg:flex-row flex  gap-32 items-center ">
-               
-			   <img className=" h-[300px] w-[300px]" src="https://i.ibb.co/z4TkPy5/login.jpg" alt="" />
-
-
-
-
-              
+		     <div className=" flex-col md:flex-col lg:flex-row flex  justify-center gap-32 items-center ">
 			  
 			   <div className=" flex justify-center">
 
