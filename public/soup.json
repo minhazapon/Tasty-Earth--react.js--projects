@@ -1,0 +1,55 @@
+
+
+[
+
+    {
+    
+        "name": "Soup",
+        "recipe": "Soup is a versatile and universally loved dish that comes in many varieties, flavors, and forms.",
+        "image": "https://img.freepik.com/free-photo/front-view-delicious-lentils-soup_140725-104776.jpg?t=st=1716095304~exp=1716098904~hmac=6c9bf400938adb2e4c2179e8d9930746af14fd9b4dc207a7f99485da15c7f8af&w=740",
+     
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb9",
+        "name": "Soup",
+        "recipe": "Soup is a versatile and universally loved dish that comes in many varieties, flavors, and forms.",
+        "image": "https://img.freepik.com/free-photo/soup-set-mushroom-lentil-pumpkin-tomato-chicken-side-view_141793-12551.jpg?t=st=1716095320~exp=1716098920~hmac=e9a4e81b45a40fa13e08e49c16ea2aa883f44402a3d935971d25eec022af3dc2&w=740",
+        "category": "drinks",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7c",
+        "name": "Soup",
+        "recipe": "Soup is a versatile and universally loved dish that comes in many varieties, flavors, and forms.",
+        "image": "https://img.freepik.com/free-photo/front-view-tasty-vermicelli-soup-with-seasonings-light-grey-background-potato-food-dough-dish-pasta-sauce-photo_140725-139504.jpg?t=st=1716095335~exp=1716098935~hmac=50dfa5fcbb1d5cb0206c0f01ca29505f0cd9bc0eff9ed7f7c371af8c9df9cef2&w=740",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee88",
+        "name": "Soup",
+        "recipe": "Soup is a versatile and universally loved dish that comes in many varieties, flavors, and forms.",
+        "image": "https://img.freepik.com/free-photo/side-view-lentil-soup-lentil-soup-bowls-tomatoes-spices-herbs_140725-73805.jpg?t=st=1716095355~exp=1716098955~hmac=b6a3f8e8932f8d3d977418b638726bbdce10820d2322ffbe28fb25e41c2e368b&w=740",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7a",
+        "name": " Soup ",
+        "recipe": "Soup is a versatile and universally loved dish that comes in many varieties, flavors, and forms.",
+        "image": "https://img.freepik.com/premium-photo/close-up-delicious-chicken-broth-white-soup-cup-with-spoon_268847-278.jpg?w=740",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8c",
+        "name": " Soup ",
+        "recipe": "Soup is a versatile and universally loved dish that comes in many varieties, flavors, and forms.",
+        "image": "https://img.freepik.com/premium-photo/bowls-butternut-squash-soup-garnished-with-greens-bacon-pumpkin-seeds-generative-ai-illustration_87561-15193.jpg?w=740",
+        "category": "dessert",
+        "price": 12.5
+    }
+
+
+]
