@@ -1,7 +1,40 @@
 import { Link, NavLink } from "react-router-dom";
 
 
+// ---------------theme
+import { useEffect, useState } from 'react'
+// -----------------------------------------
+
+
+
 const Nav = () => {
+
+    
+// ------------------------------------theme
+const [theme, setTheme] = useState('light')
+  
+// update state on toggle
+const handleToggle = e => {
+  if (e.target.checked) {
+    setTheme('synthwave')
+  } else {
+    setTheme('light')
+  }
+}
+
+// set theme state in localStorage on mount & also update localStorage on state change
+useEffect(() => {
+  localStorage.setItem('theme', theme)
+  const localTheme = localStorage.getItem('theme')
+
+  // add custom data-theme attribute
+  document.querySelector('html').setAttribute('data-theme', localTheme)
+}, [theme])
+// --------------------------------------
+
+
+
+
 
    
 
@@ -53,7 +86,23 @@ const Nav = () => {
 
                         </ul>
                       </div>
-                      <div className="navbar-end">
+
+
+                      <div className="navbar-end flex items-center gap-1 ">
+
+                       {/* ---------------------theme */}
+                       <label htmlFor="Toggle1" className="inline-flex items-center space-x-4 cursor-pointer text-gray-100">
+                    
+                       <span className="relative">
+                       <input onChange={handleToggle} id="Toggle1"  type="checkbox" className="hidden peer" />
+                       <div className="w-10 h-6 rounded-full shadow-inner bg-gray-400 peer-checked:bg-violet-400"></div>
+                       <div className="absolute inset-y-0 left-0 w-4 h-4 m-1 rounded-full shadow peer-checked:right-0 peer-checked:left-auto bg-gray-800"></div>
+                       </span>
+                     
+                       </label>
+                       {/* ------------------------------------                      */}
+
+                   
 
                        <Link to="/login" >
 
