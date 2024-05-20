@@ -28,7 +28,7 @@ const Fish = () => {
     return (
         <div>
 
-            <div className=" flex justify-center">
+            <div className=" flex justify-center mt-10">
                 <div className=" grid  md:grid-cols-3 gap-5">
                     {
                         Fish.map( fish => <FishDetails fish={fish}></FishDetails> )
