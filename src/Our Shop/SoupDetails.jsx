@@ -1,15 +1,13 @@
 
 
 
+const SoupDetails = ({soup}) => {
 
-const PizzasDetails = ({pizza}) => {
-
-    const {name, recipe, image, price} = pizza
-
-
+    const {name, recipe, image, price} = soup
 
     return (
         <div>
+
 
             <div className="card w-96 bg-base-100 shadow-xl border-[1px] border-yellow-800 ">
             <figure className="px-10 pt-10">
@@ -29,4 +27,4 @@ const PizzasDetails = ({pizza}) => {
     );
 };
 
-export default PizzasDetails;
+export default SoupDetails;

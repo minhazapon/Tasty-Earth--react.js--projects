@@ -5,6 +5,9 @@ import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
 import Salad from './Salad';
 import Pizzas from './Pizzas';
+import Soup from './Soup';
+import Desserts from './Desserts';
+import Fish from './Fish';
 
 
 
@@ -32,9 +35,15 @@ const Order = () => {
               <TabPanel>
                 <Pizzas></Pizzas>
               </TabPanel>
-              <TabPanel></TabPanel>
-              <TabPanel></TabPanel>
-              <TabPanel></TabPanel>
+              <TabPanel>
+                <Soup></Soup>
+              </TabPanel>
+              <TabPanel>
+                <Desserts></Desserts>
+              </TabPanel>
+              <TabPanel>
+                <Fish></Fish>
+              </TabPanel>
             </Tabs>
 
             </div>

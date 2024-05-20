@@ -27,8 +27,8 @@
     },
     {
         "_id": "642c155b2c4774f05c36ee88",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "name": "Dessert",
+        "recipe": "Dessert is a broad category of sweet foods that are typically served at the end of a meal.",
         "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
         "category": "dessert",
         "price": 12.5
@@ -43,8 +43,8 @@
     },
     {
         "_id": "642c155b2c4774f05c36ee8c",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "name": "Dessert",
+        "recipe": "Dessert is a broad category of sweet foods that are typically served at the end of a meal.",
         "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
         "category": "dessert",
         "price": 12.5
@@ -83,16 +83,16 @@
     },
     {
         "_id": "642c155b2c4774f05c36ee89",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "name": "Dessert",
+        "recipe": "Dessert is a broad category of sweet foods that are typically served at the end of a meal.",
         "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
         "category": "dessert",
         "price": 13.5
     },
     {
         "_id": "642c155b2c4774f05c36ee8a",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "name": "Dessert",
+        "recipe": "Dessert is a broad category of sweet foods that are typically served at the end of a meal.",
         "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
         "category": "dessert",
         "price": 12.5
@@ -115,8 +115,8 @@
     },
     {
         "_id": "642c155b2c4774f05c36ee84",
-        "name": "Roast Duck Breast",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "name": "Dessert",
+        "recipe": "Dessert is a broad category of sweet foods that are typically served at the end of a meal.",
         "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-4-370x247.jpg",
         "category": "dessert",
         "price": 14.5
@@ -139,8 +139,8 @@
     },
     {
         "_id": "642c155b2c4774f05c36ee87",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "name": "Dessert",
+        "recipe": "Dessert is a broad category of sweet foods that are typically served at the end of a meal.",
         "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
         "category": "dessert",
         "price": 13.5
@@ -187,8 +187,8 @@
     },
     {
         "_id": "642c155b2c4774f05c36ee90",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "name": "Dessert",
+        "recipe": "Dessert is a broad category of sweet foods that are typically served at the end of a meal.",
         "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
         "category": "dessert",
         "price": 9.5
@@ -203,16 +203,16 @@
     },
     {
         "_id": "642c155b2c4774f05c36ee8d",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "name": "Dessert",
+        "recipe": "Dessert is a broad category of sweet foods that are typically served at the end of a meal.",
         "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
         "category": "dessert",
         "price": 13.5
     },
     {
         "_id": "642c155b2c4774f05c36ee8e",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "name": "Dessert",
+        "recipe": "Dessert is a broad category of sweet foods that are typically served at the end of a meal.",
         "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
         "category": "dessert",
         "price": 12.5
@@ -275,24 +275,24 @@
     },
     {
         "_id": "642c155b2c4774f05c36ee8b",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "name": "Dessert",
+        "recipe": "Dessert is a broad category of sweet foods that are typically served at the end of a meal.",
         "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
         "category": "dessert",
         "price": 13.5
     },
     {
         "_id": "642c155b2c4774f05c36ee8f",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "name": "Dessert",
+        "recipe": "Dessert is a broad category of sweet foods that are typically served at the end of a meal.",
         "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
         "category": "dessert",
         "price": 13.5
     },
     {
         "_id": "642c155b2c4774f05c36ee91",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans",
+        "name": "Dessert",
+        "recipe": "Dessert is a broad category of sweet foods that are typically served at the end of a meal.",
         "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
         "category": "dessert",
         "price": 14.7
@@ -323,8 +323,8 @@
     },
     {
         "_id": "642c155b2c4774f05c36ee85",
-        "name": "Tuna Niçoise",
-        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "name": "Dessert",
+        "recipe": "Dessert is a broad category of sweet foods that are typically served at the end of a meal.",
         "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
         "category": "dessert",
         "price": 10.5
@@ -411,8 +411,8 @@
     },
     {
         "_id": "642c155b2c4774f05c36ee86",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "name": "Dessert ",
+        "recipe": "Dessert is a broad category of sweet foods that are typically served at the end of a meal.",
         "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
         "category": "dessert",
         "price": 12.5

@@ -2,16 +2,16 @@
 
 
 
-const PizzasDetails = ({pizza}) => {
+const DesDetails = ({des}) => {
 
-    const {name, recipe, image, price} = pizza
+    const {name, recipe, image, price} = des
 
 
 
     return (
         <div>
 
-            <div className="card w-96 bg-base-100 shadow-xl border-[1px] border-yellow-800 ">
+            <div className="card w-96 h-[500px] bg-base-100 shadow-xl border-[1px] border-yellow-800 ">
             <figure className="px-10 pt-10">
              <img src={image} alt="Shoes" className="rounded-xl h-[200px] w-[300px] " />
             </figure>
@@ -25,8 +25,8 @@ const PizzasDetails = ({pizza}) => {
             </div>
             </div>
             
-        </div>
+           </div>
     );
 };
 
-export default PizzasDetails;
+export default DesDetails;
