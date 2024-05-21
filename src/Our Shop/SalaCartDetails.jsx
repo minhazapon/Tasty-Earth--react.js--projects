@@ -6,7 +6,13 @@
 const SalaCartDetails = ({salad}) => {
      
     const {name, recipe, image, price} = salad
+     
 
+     const handleFood = food => {
+
+         console.log(food)
+
+     }
 
 
     return (
@@ -23,7 +29,7 @@ const SalaCartDetails = ({salad}) => {
              <p className=" text-slate-400"> {recipe} </p>
              <p className=" text-2xl "> Price: {price} </p>
              <div className="card-actions">
-               <button className="btn  text-white bg-yellow-700 ">Add Cart</button>
+               <button onClick={ ()=> handleFood(salad) } className="btn  text-white bg-yellow-700 ">Add Cart</button>
              </div>
             </div>
             </div>

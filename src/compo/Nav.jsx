@@ -44,6 +44,16 @@ useEffect(() => {
          <li><NavLink to="/contactmother" >Contact Us</NavLink></li>
          <li><NavLink to="/ourmenu" >Our Menu</NavLink></li>
          <li><NavLink to="/shopmother" >Our Shop</NavLink></li>
+         <li><NavLink to="/inbox" >
+             
+                   
+           <button className=" flex items-center gap-1">
+             <img className=" h-[30px]" src="https://i.ibb.co/SJDD4wd/shopping-cart.png" alt="" />
+             <div className="badge badge-secondary">+0</div>
+           </button>
+          
+          
+          </NavLink></li>
     
     
     </>
